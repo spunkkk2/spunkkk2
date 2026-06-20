@@ -15,5 +15,5 @@ Full-stack developer who treats Python like a personality trait. I don't have bu
 </a>
 
 <br clear="both"/>
-
+<br>
 ⭐️ Feel free to **follow me** - I'd really appreciate your support!
