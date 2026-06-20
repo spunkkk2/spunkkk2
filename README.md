@@ -8,8 +8,6 @@ Full-stack developer who treats Python like a personality trait. I don't have bu
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spunkkk2&row=1&column=6&theme=dark)](https://github.com/spunkkk2)
-
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spunkkk2&layout=compact&langs_count=8&theme=dark"/>
 
 [![cat](images/cat.gif)](https://github.com/spunkkk2)
