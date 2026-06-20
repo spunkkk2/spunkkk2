@@ -1,5 +1,3 @@
-## Hello, I'm Anas Badran
-
 Full-stack developer who treats Python like a personality trait. I don't have bugs — I have undocumented features with attitude. My debugging stack is `print()`, denial, and one more cup of coffee.
 
 ### 🛠 Technical Skills
