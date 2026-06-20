@@ -8,8 +8,17 @@ Full-stack developer who treats Python like a personality trait. I don't have bu
 
 ## 🏆 GitHub Profile Trophy
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spunkkk2&layout=compact&langs_count=8&theme=dark"/>
-
-[![cat](images/cat.gif)](https://github.com/spunkkk2)
+<table>
+  <tr>
+    <td valign="top">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spunkkk2&layout=compact&langs_count=8&theme=dark"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/spunkkk2">
+        <img src="images/cat.gif" alt="cat"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ⭐️ Feel free to **follow me** - I'd really appreciate your support!
