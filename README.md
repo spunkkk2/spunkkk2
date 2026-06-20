@@ -12,6 +12,6 @@ Full-stack developer who treats Python like a personality trait. I don't have bu
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=spunkkk2&layout=compact&langs_count=8&theme=dark"/>
 
-⭐️ Feel free to **follow me** - I'd really appreciate your support!
-
 [![cat](images/cat.gif)](https://github.com/spunkkk2)
+
+⭐️ Feel free to **follow me** - I'd really appreciate your support!
